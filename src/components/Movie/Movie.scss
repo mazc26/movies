@@ -1,0 +1,22 @@
+.movie-card {
+  cursor: pointer;
+}
+
+.picture-container {
+  position: relative;
+}
+
+.opacity {
+  opacity: 0.6;
+  transition: opacity .25s ease-in-out;
+  -moz-transition: opacity .25s ease-in-out;
+  -webkit-transition: opacity .25s ease-in-out;
+}
+
+.expand-button {
+  position: absolute;
+  top: 80%;
+  text-align: center;
+  margin: 0 auto;
+  left: calc(50% - 18px)
+}

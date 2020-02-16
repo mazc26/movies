@@ -1,0 +1,31 @@
+.content-container {
+  display: flex;
+  margin: 5px 0;
+}
+
+.title {
+  color: #3f51b5;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.content {
+  color: black;
+  font-size: 16px;
+  margin-left: 4px;
+}
+
+.overview-content {
+  margin-top: 10px;
+}
+
+.map-content {
+  margin-left: 5px;
+  display: flex;
+}
+
+.overview-title {
+  margin-top: 20px;
+  color: #3f51b5;
+  font-weight: bold;
+}
